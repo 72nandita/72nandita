@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @72nandita
 - 👀 I’m interested in creating and innovating new stuff
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning java
 - 💞️ I’m looking forward to learn from others too...
 
 
